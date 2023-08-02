@@ -1,0 +1,10 @@
+p{
+    font-size:large;
+}html{
+    font-family: 'Roboto Slab', serif;
+}img{
+    border-radius: 15px;
+    height: 213px;
+    width: 321px;
+    object-fit: fill;
+}
